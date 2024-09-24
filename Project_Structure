@@ -1,0 +1,16 @@
+my-blog/
+├── frontend/
+│   ├── pages/
+│   │   ├── api/
+│   │   │   └── articles.ts
+│   │   ├── index.tsx
+│   ├── components/
+│   ├── styles/
+│   └── package.json
+├── backend/
+│   ├── server.ts
+│   ├── routes/
+│   │   └── articles.ts
+│   ├── db.ts
+│   └── package.json
+└── README.md
